@@ -10,8 +10,10 @@ cmd + R run
 
 
 wCompact hAny
-
+ 
 ----------Cocoapods-----------
+
+
 Install
 http://cocoapods.org/
 $ sudo gem install cocoapods
